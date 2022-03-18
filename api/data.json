@@ -348,5 +348,33 @@
     "author": "Adoree Durtnal",
     "release_date": "01/04/1992",
     "isbn_no": "811999230-X"
+  },
+  {
+    "id": 51,
+    "book_title": "New Book",
+    "author": "New Author",
+    "release_date": "1999",
+    "isbn_no": "551896144-8"
+  },
+  {
+    "id": 52,
+    "bookTitle": "test",
+    "author": "wegweg",
+    "release_date": "1999",
+    "isbn_no": "te"
+  },
+  {
+    "id": 53,
+    "bookTitle": "asdasd",
+    "author": "asdas",
+    "release_date": "1932",
+    "isbn_no": "asd"
+  },
+  {
+    "id": 54,
+    "bookTitle": "book1",
+    "author": "author1",
+    "release_date": "1999",
+    "isbn_no": "test"
   }
 ]
